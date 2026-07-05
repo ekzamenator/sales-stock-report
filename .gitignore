@@ -1,0 +1,14 @@
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Настройки VS Code
+.vscode/
+
+# Файлы резервных копий
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
